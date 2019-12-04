@@ -25,7 +25,9 @@ the lower or higher intervals together with the remaining inlying values of the 
 handled by the file attached to the dataset.
 
 ### Feature Engineering & Selection
-Via categorical variables encoding and numerical variables engineering and removing redundant features, then checking for correlated features. Dimensionality reduction will be handled by the MRMR method. As shown below, our feature selection process hasn't been able to select a certain future with a large impact on the baseline histological grading which is only natural due to the inherent balance of our utilized dataset.
+Via categorical variables encoding and numerical variables engineering and removing redundant features, then checking for correlated features. Dimensionality reduction will be handled by the MRMR method. As shown below, our feature selection process hasn't been able to select a certain future with a large impact on the baseline histological grading which is only natural due to the inherent balance of our utilized dataset. The 2 features selected are the baseline histological grading and age using their score of the MRMR test. 
+
+The figure below outlines the distribution of classes according to their age and baseline histological grading.
 
 ![MRMR method](imgs/MRMR.jpg)
 
