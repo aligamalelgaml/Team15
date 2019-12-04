@@ -21,7 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A documentation of SBME 2021's team 15 work on a predicition model for fibrosis stages in HCV patients.
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
-baseurl: "/docsy-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/Team15" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
 url: "https://vsoch.github.io" # the base hostname & protocol for your site
