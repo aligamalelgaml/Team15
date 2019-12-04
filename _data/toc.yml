@@ -33,8 +33,10 @@
     - title: "Project Finalization"
       url: "docs/final"
       children:
-        - title: Results
-          url: "docs/final#reuslts"      
+        - title: KNN Results
+          url: "docs/final#knn-reuslts"  
+        - title: Naive-Bayes Results
+          url: "docs/final#naive-bayes-results"      
     # - title: "Getting Started"
     #   url: "docs/getting-started"
     #   children:
