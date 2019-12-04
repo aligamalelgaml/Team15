@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Docsy Jekyll Theme
+title: SBME 2021 Team 15
 permalink: /
 ---
 
