@@ -1,0 +1,57 @@
+- title: Documentation
+  url: docs
+  links:
+    - title: "Introduction"
+      url: "docs/intro"
+      children:
+        - title: Biological Process
+          url: "docs/intro#biological-process"
+        - title: Motivation
+          url: "docs/intro#motivation"  
+        - title: Machine Learning Efforts
+          url: "docs/intro#machine-learning-efforts"  
+    - title: "Project Methodology"
+      url: "docs/project"
+      children:
+        - title: Exploratory Data Analysis
+          url: "docs/project#exploratory-data-analysis"
+        - title: Data Pre-processing
+          url: "docs/project#data-preprocessing" 
+        - title: Modeling
+          url: "docs/project#modeling"     
+        - title: Evaluation
+          url: "docs/project#evaluation"
+    - title: "Machine Learning Models"
+      url: "docs/models"
+      children:
+        - title: Naïve-Bayes Model
+          url: "docs/models#naïve-bayes-model"
+        - title: K Nearest Neighbour
+          url: "docs/models#knn-model"
+        - title: Observed Advantages 
+          url: "docs/models#observed-advantages-of-each-model" 
+    - title: "Project Finalization"
+      url: "docs/final"
+      children:
+        - title: Results
+          url: "docs/final#reuslts"      
+    # - title: "Getting Started"
+    #   url: "docs/getting-started"
+    #   children:
+    #     - title: Features
+    #       url: "docs/getting-started#getting-started"
+    #     - title: Development
+    #       url: "docs/getting-started#development"
+    #     - title: Customization
+    #       url: "docs/getting-started#customization"
+    # - title: "Extras"
+    #   url: "docs/extras"
+    #   children:
+    #     - title: Quizzes
+    #       url: "docs/extras/example-quiz"
+    #     - title: Tags Page
+    #       url: "tags"
+    - title: "About"
+      url: "about"
+    - title: "News"
+      url: "news"
