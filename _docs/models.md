@@ -7,7 +7,7 @@ description: A brief overview of the output of our used models.
 
 ## Naïve Bayes Model
 
-Naive Bayes algorithms is a classification technique based on applying Bayes’ theorem under the assumption that all the events are independent to each other. In Bayesian classification, the main interest is to find the probability of a class given some other observed feature, P(A\|Feature). We can express this as follows; P(A\|Feature) = P(A) * P(Feature\|A) / P(Feature)
+Naive Bayes algorithms is a classification technique based on applying Bayes’ theorem under the assumption that all the events are independent to each other. In Bayesian classification, the main interest is to find the probability of a class given some other observed feature, P(A\|Feature). We can express this as follows; ** P(A\|Feature) = P(A) * P(Feature\|A) / P(Feature) **
 
 P(A\|Feature) is the probability of a class given a certain feature. P(A) is the probability of a class. P(Feature\|A) is the probability of a feature given a certain class. P(Feature) is the probability of a feature.
 
