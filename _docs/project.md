@@ -12,7 +12,7 @@ description: Project explained further
 Exploring patterns of variation, typical values and outliers is
 an important task. We can gain such knowledge by visualizing the variables’ distributions. As shown below, we have used boxplots to quickly determine the relevance of features and their impact on the baseline histological grading of the patient.
 
-![Boxplots](/imgs/feature_boxplot)
+![Boxplots](/imgs/feature_boxplot.jpeg)
 
 ## Data Preprocessing
 
@@ -27,11 +27,11 @@ handled by the file attached to the dataset.
 ### Feature Engineering & Selection
 Via categorical variables encoding and numerical variables engineering and removing redundant features, then checking for correlated features. Dimensionality reduction will be handled by the MRMR method. As shown below, our feature selection process hasn't been able to select a certain future with a large impact on the baseline histological grading which is only natural due to the inherent balance of our utilized dataset.
 
-![MRMR method](/imgs/feature_MRMR)
+![MRMR method](/imgs/feature_MRMR.jpeg)
 
 For furher clarity, we have split the data by histological grading stage.
 
-![MRMR facet wrap](/imgs/feature_facet_wrap)
+![MRMR facet wrap](/imgs/feature_facet_wrap.jpeg)
 
 
 ## Modeling
