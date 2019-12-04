@@ -35,7 +35,7 @@ For furher clarity, we have split the data by histological grading stage.
 
 
 ## Modeling
-We have utilized both KNN and Naive Bayes for our models.
+We have utilized both KNN and Naive Bayes for our models, which can be seen in action in [our repo](https://github.com/sbme-tutorials/sbe304-fall19-project-team15).
 
 ## Evaluation 
 
