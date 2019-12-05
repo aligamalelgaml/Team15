@@ -34,7 +34,9 @@
         - title: KNN Results
           url: "docs/final#knn-reuslts"  
         - title: Naive-Bayes Results
-          url: "docs/final#naive-bayes-results"      
+          url: "docs/final#naive-bayes-results"   
+        - title: Overall Results
+          url: "docs/final#overall-results"   
     # - title: "Getting Started"
     #   url: "docs/getting-started"
     #   children:
