@@ -8,7 +8,7 @@ permalink: /
 
 ## Purpose
 
-This is a simple website hosted on GitHub pages dedicated to the continued documentation of our progress on our Biostatics & Probabilties final project, under the supervision of Eng. Asem Alaa & Dr. Heshan Qandel.
+This is a simple website hosted on GitHub pages dedicated to the continued documentation of our progress on our Biostatics & Probabilties final project, under the supervision of Eng. Asem Alaa & Dr. Hesham Qandel.
 
 ## Features
 
