@@ -33,5 +33,5 @@ us even more enthusiastic to fulfill our task.
 Our work will be based on the dataset provided by the
 University of Ain Shams that includes data about Hepatitis
 C Virus (HCV) for Egyptian patients. Key attributes and
-possible values can be found in the (link)[https://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients]. EDA, Data Visualization, pre-processing and modeling will be handled by
+possible values can be found in the [link](https://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients). EDA, Data Visualization, pre-processing and modeling will be handled by
 the suitable R libraries.
