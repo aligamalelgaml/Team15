@@ -28,8 +28,6 @@
           url: "docs/models#naïve-bayes-model"
         - title: K Nearest Neighbour
           url: "docs/models#knn-model"
-        - title: Observed Advantages 
-          url: "docs/models#observed-advantages-of-each-model" 
     - title: "Project Finalization"
       url: "docs/final"
       children:
